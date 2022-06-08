@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Red social UCA</string>
+    <string name="RegistrarBTN">Registrarse</string>
+    <string name="LoginBTN">Iniciar Sesión</string>
+    <string name="RegistrarTXT">Registrate</string>
+
+
+    <!--aqui comienzan los atributos de registro-->
+
+    <string name="Nombre">Nombre(s)</string>
+    <string name="Apellido">Apellido(s)</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Edad">Edad</string>
+    <string name="Validar">Crear Usuario</string>
+
+</resources>
